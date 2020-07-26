@@ -1,6 +1,6 @@
 Working on it ...
 
-![Models comparizon](images/First_comparizon_time_series.png)
+![Models comparizon](Images/First_comparizon_time_series.png)
 
 By now the best model for ETH seems to be Arima, but for other cryptos like Swipe that is more 
 volatile and has less data the accuracy and predictions turns very bad 24/07/2020
