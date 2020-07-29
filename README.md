@@ -6,6 +6,7 @@ By now the best model for ETH seems to be Arima, but for other cryptos like Swip
 volatile and has less data the accuracy and predictions turns very bad 24/07/2020
 
 Example of Full_Analizer_Arima(Tuned)_ETH near date 26/07/2020.
+
 ![Arima-ETH](Images/high_vs_forecast.png)
 
 After date 26/07/2020.
