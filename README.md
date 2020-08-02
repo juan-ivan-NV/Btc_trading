@@ -17,7 +17,7 @@ For me, the best option is option 1 but the model will not be good if we want to
 
     1.- Scrapping data from: https://coinmarketcap.com/
     
-    2.- It's possible to get data by hours from ... but only till each Monday of each week:
+    2.- It's possible to get data by hours or days from https://www.cryptodatadownload.com/data/ but only till each Monday of each week.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
