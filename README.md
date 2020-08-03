@@ -15,7 +15,9 @@ Much data to feed models is very good because if it's too much data for one mode
 
 For me, the best option is option 1 but the model will not be good if we want to trade by short periods like hours, so the best one is option 4 but is not as easy as it sounds, anyway I will try a bot with selenium to request data by minutes.
 
-    1.- Scrapping data from: https://coinmarketcap.com/
+    1.- Scrapping data from: https://coinmarketcap.com/ 
+
+![Coins](Images/Somecoins.png)
     
     2.- It's possible to get data by hours or days from https://www.cryptodatadownload.com/data/ but only till each Monday of each week.
 
