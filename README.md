@@ -17,7 +17,7 @@ For me, the best option is option 1 but the model will not be good if we want to
 
     1.- Scrapping data from: https://coinmarketcap.com/ 
 
-![Coins](Images/Somecoins.png)
+![Coins](Images/coinsav.png)
 
 Function is ready to extract dayli data like Open, Close, Low, High, Volume and Market cap.
     
