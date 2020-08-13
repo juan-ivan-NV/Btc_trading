@@ -30,7 +30,7 @@ Script at: https://www.kaggle.com/jinuezb/cryptocurrencies-daily-data
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+# Stage 2 Time series forecasting
 
 ![Models](Images/First_comparizon_time_series.png)
 
