@@ -19,9 +19,14 @@ For me, the best option is option 1 but the model will not be good if we want to
 
 ![Coins](Images/coinsav.png)
 
-Function is ready to extract dayli data like Open, Close, Low, High, Volume and Market cap.
+![Coins](Images/typecoin.png)
+
+![Coins](Images/rangesgraph.png)
+
+
+Script at: https://www.kaggle.com/jinuezb/cryptocurrencies-daily-data
     
-    2.- It's possible to get data by hours or days from https://www.cryptodatadownload.com/data/ but only till each Monday of each week.
+    2.- Also It's possible to get data by hours or days from https://www.cryptodatadownload.com/data/ but only till each Monday of each week.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
