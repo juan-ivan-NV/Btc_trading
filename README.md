@@ -24,8 +24,7 @@ First attempt
 
 ![Models](Images/First_comparizon_time_series.png)
 
-By now the best model for ETH seems to be Arima, but for other cryptos like Swipe that is more 
-volatile and has less data the accuracy and predictions turns very bad 24/07/2020
+Arima performed best predictions but I will keep trying with different models and hyperparamenters
 
 Second attempt with: 
 Prophet, Arima, Pycaret stacking, LSTM. 
