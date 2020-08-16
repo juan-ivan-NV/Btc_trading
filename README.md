@@ -20,14 +20,13 @@ Script at: https://www.kaggle.com/jinuezb/cryptocurrencies-daily-data
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Stage 2 Time series forecasting
-
-Prophet
-Arima
-Pycaret stacking
-LSTM 
+First attempt
 
 ![Models](Images/First_comparizon_time_series.png)
 
 By now the best model for ETH seems to be Arima, but for other cryptos like Swipe that is more 
 volatile and has less data the accuracy and predictions turns very bad 24/07/2020
+
+Second attempt with: 
+Prophet, Arima, Pycaret stacking, LSTM. 
 
