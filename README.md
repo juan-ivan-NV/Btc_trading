@@ -27,5 +27,13 @@ First attempt
 Arima performed best predictions but I will keep trying with different models and hyperparamenters
 
 Second attempt with: 
-Prophet, Arima, Pycaret stacking, LSTM. 
+* Prophet: 
+
+* Arima: 
+
+* Pycaret 3 models: 
+
+* LSTM: Working on it
+
+
 
