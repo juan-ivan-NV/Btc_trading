@@ -27,7 +27,9 @@ First attempt
 Arima performed best predictions but I will keep trying with different models and hyperparamenters
 
 Second attempt with: 
-* Prophet: 
+* Prophet: hyperparameter changepoint_prior_scale=1.1 - best MSE
+
+![FbProphet](Images/prophet1.png)
 
 * Arima: 
 
