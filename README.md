@@ -20,13 +20,15 @@ Script at: https://www.kaggle.com/jinuezb/cryptocurrencies-daily-data
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Stage 2 Time series forecasting
-First attempt
+
+## First attempt
 
 ![Models](Images/First_comparizon_time_series.png)
 
 Arima performed best predictions but I will keep trying with different models and hyperparamenters
 
-Second attempt with: 
+## Second attempt 
+
 * Prophet: hyperparameter changepoint_prior_scale=1.1 - best MSE
 
 ![FbProphet](Images/prophet1.png)
