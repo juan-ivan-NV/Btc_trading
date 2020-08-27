@@ -35,9 +35,14 @@ Arima performed best predictions but I will keep trying with different models an
 
 * Arima: 
 
-* Pycaret 3 models: 
+* Pycaret blender 3 models:
+![PyCaret](Images/Pycaret_blender3.png)
 
 * LSTM: Working on it
+
+Comparing again PyCaret, FbProphet and ARIMA for ETH forecasting (Last 40 days)
+
+![comparizon](Images/comp3.png)
 
 
 
