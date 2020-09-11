@@ -44,5 +44,7 @@ Comparing again PyCaret, FbProphet and ARIMA for ETH forecasting (Last 40 days)
 
 ![comparizon](Images/comp3.png)
 
+* XGBoost: Working on it.
+
 
 
