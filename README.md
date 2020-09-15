@@ -33,6 +33,8 @@ Arima performed best predictions but I will keep trying with different models an
 
 ![FbProphet](Images/prophet1.png)
 
+* XGBoost: Working on it.
+
 * Arima: 
 
 * Pycaret blender 3 models:
@@ -44,9 +46,9 @@ Comparing again PyCaret, FbProphet and ARIMA for ETH forecasting (Last 40 days)
 
 ![comparizon](Images/comp3.png)
 
-* GRU: Working on it
+* GRU: Working on it.
 
-* XGBoost: Working on it.
+
 
 
 
