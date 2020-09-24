@@ -79,7 +79,7 @@ Some information to understand RNN's https://colah.github.io/posts/2015-08-Under
 
 For forecastings I choose a window size of 20 data, It means that each prediction is done considering the 20 data before and all the weights that the network is saving.
 
-![Models](Images/pycaretmodels_9.PNG)
+![Models](Images/lstmse_11.PNG)
 
 ## Sixth model RNN - GRU (Gated Recurrent Units)
 
@@ -104,6 +104,6 @@ Finally all mse models is compared showing that pycaret performed the best forec
 
 # Notes
 
-Results are not always the same, sometimes one model perfoms better than other, for example when I start with first testings ARIMA forecastings fited close to the real price, in this case RNN's are not working as good as desired because the data is not enough to train them.
+Results are not always the same, sometimes one model perfoms better than other, for example when I started with first testings ARIMA forecastings fited closer to the real price, in this case RNN's are not working as good as desired because the data is not enough to train them.
 
-In next stages I will try forecastings with data by hour and windows of 24 data.
+In next stages I will try forecastings with data by hour and windows of 24 data...
