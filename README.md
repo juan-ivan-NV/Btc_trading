@@ -1,19 +1,36 @@
-Working on it ...
+
+# Welcome to this project
+
+In this script I've been triying to get the best forecastings as possible trying with different time series models.
+
+Whole script at: https://www.kaggle.com/jinuezb/cryptocurrencies-daily-data
+
+Credits to:
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Stage 1 Data extraction
+
 
 The methods I used to extract data
 
     1.- Scrapping data from: https://coinmarketcap.com/ 
 
-![Coins](Images/coinsav.png)
+![Coins](Images/coinmkp_1.png)
 
-![Coins](Images/typecoin.png)
+* Showing firsts 200 coins available:
 
-![Coins](Images/rangesgraph.png)
+![Coins](Images/coinsav_2.png)
 
+* Coins names:
 
-Script at: https://www.kaggle.com/jinuezb/cryptocurrencies-daily-data
+![Coins](Images/allcoins_3.png)
+
+* Graph ethereum high price since source firsts recordings
+
+![Coins](Images/coinbehave_4.png)
     
     2.- Also It's possible to get data by hours or days from https://www.cryptodatadownload.com/data/ but only till each Monday of each week.
 
@@ -21,32 +38,13 @@ Script at: https://www.kaggle.com/jinuezb/cryptocurrencies-daily-data
 
 # Stage 2 Time series forecasting
 
-## First attempt
 
-![Models](Images/First_comparizon_time_series.png)
+## First model Prophet 
 
-Arima performed best predictions but I will keep trying with different models and hyperparamenters
+Prophet perform better to forecastings for seasonal data 
 
-## Second attempt 
+![Models](Images/prophet_5.png)
 
-* Prophet: hyperparameter changepoint_prior_scale=1.1 - best MSE
-
-![FbProphet](Images/prophet1.png)
-
-* XGBoost: Working on it.
-
-* Arima: 
-
-* Pycaret blender 3 models:
-![PyCaret](Images/Pycaret_blender3.png)
-
-* LSTM: Working on it
-
-Comparing again PyCaret, FbProphet and ARIMA for ETH forecasting (Last 40 days)
-
-![comparizon](Images/comp3.png)
-
-* GRU: Working on it.
 
 
 
