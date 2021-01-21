@@ -108,4 +108,4 @@ Finally all mse models is compared showing that pycaret performed the best forec
 
 Results are not always the same, sometimes one model perfoms better than other, for example when I started with first testings ARIMA forecastings fited closer to the real price, other issue in this case is that RNN's are not working as good as desired because the data is not enough to train them.
 
-In the following stages, I tried with more data by hour, more than 20000 hours, but the result is worst than using data by day, also the time and resources to train models are high.
+### In the next stages, I tried with more data per hour, more than 20000 hours, but the result is worse than using data per day, and the time to train models is as high as the resources required.
