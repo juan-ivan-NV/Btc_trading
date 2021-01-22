@@ -1,0 +1,1 @@
+This section is to test different strategies and algorithms
